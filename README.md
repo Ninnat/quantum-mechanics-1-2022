@@ -6,12 +6,12 @@ A repository for M897564 Non-Relativistic Quantum Mechanics, NU
 
 * [C-T] *Quantum Mechanics*, Cohen-Tannoudji, Diu, and Laloë
 
-|Date| Topics |Lecture notes|Homework|Resources|
-|:--:|:------:|:-----------:|:------:|:-------:|
+|Date| Topics |Lecture notes|Resources|Homework|
+|:--:|:------:|:-----------:|:-------:|:------:|
 |T 30 Aug|Review of postulates of quantum mechanics, measurements|
 |W 31 Aug|**No tutorial class**|
 |Th 1 Sep|**No class** (We Are IF activity)|
-|T 6 Sep|Simple Harmonic Oscillator (SHO) I|[Notes](https://github.com/Ninnat/quantum-mechanics/blob/main/lecture-notes/SHO.pdf) <br> [Robert Littlejohn's note on the SHO](http://bohr.physics.berkeley.edu/classes/221/1011/notes/harmosc.pdf)||C-T V|
+|T 6 Sep|Simple Harmonic Oscillator (SHO) I|[Lecture I](https://github.com/Ninnat/quantum-mechanics/blob/main/lecture-notes/SHO.pdf) <br> [Robert Littlejohn's note on the SHO](http://bohr.physics.berkeley.edu/classes/221/1011/notes/harmosc.pdf)|C-T V|
 |W 7 Sep|SHO II||C-T V|
 |Th 8 Sep|SHO III; coherent states and classicaity||C-T G<sub>V</sub>|
 |T 13 Sep|Two-level systems I|
