@@ -16,6 +16,8 @@ A repository for M897564 Non-Relativistic Quantum Mechanics, NU
 
 * [C-T] *Quantum Mechanics*, Cohen-Tannoudji, Diu, and Laloë
 
+## Schedule
+
 |Date| Topics |Lecture notes|Resources|Homework|
 |:--:|:------:|:-----------:|:-------:|:------:|
 |T 30 Aug|Review of postulates of quantum mechanics, measurements|
