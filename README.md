@@ -32,3 +32,10 @@ A repository for M897564 Non-Relativistic Quantum Mechanics, NU
 |T 25 Oct|
 |W 26 Oct|
 |Th 27 Oct|
+
+
+Scanning the QR code below will bring you to this repository.
+
+<p align="center">
+  <img height="300" src="qr-code.png">
+</p>
