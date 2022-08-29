@@ -1,6 +1,6 @@
 A repository for M897564 Non-Relativistic Quantum Mechanics, NU
 
-# M897564 Non-Relativistic Quantum Mechanics (Second half)
+# M897564 Non-Relativistic Quantum Mechanics (2nd half)
 
 ## Topics
 
