@@ -8,7 +8,7 @@ A repository for M897564 Non-Relativistic Quantum Mechanics, NU
 |T 30 Aug|Review of postulates of quantum mechanics, measurements|
 |W 31 Aug|**No tutorial class**|
 |Th 1 Sep|**No class** (We Are IF activity)|
-|T 6 Sep|Simple Harmonic Oscillator (SHO) I|
+|T 6 Sep|Simple Harmonic Oscillator (SHO) I|[Notes](https://github.com/Ninnat/quantum-mechanics/blob/main/lecture-notes/SHO.pdf) <br> [Robert Littlejohn's note on the SHO](http://bohr.physics.berkeley.edu/classes/221/1011/notes/harmosc.pdf)
 |W 7 Sep|SHO II|
 |Th 8 Sep|SHO III; coherent states and classicality|
 |T 13 Sep|Two-level systems I|
