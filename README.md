@@ -2,6 +2,16 @@ A repository for M897564 Non-Relativistic Quantum Mechanics, NU
 
 # M897564 Non-Relativistic Quantum Mechanics (Second half)
 
+## Topics
+
+* Review of the formalism of quantum mechanics
+* The simple harmonic oscilator and coherent states
+* Two-level systems, spin-1/2
+* Angular momentum, symmetries and conservation laws, spin dynamics
+* Addition of angular momenta, vector and tensor operators, the Wigner-Eckart theorem
+* Central potentials and the hydrogen atom
+* Additional topics if time permitted
+
 ## Resource
 
 * [C-T] *Quantum Mechanics*, Cohen-Tannoudji, Diu, and Laloë
