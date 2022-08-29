@@ -13,7 +13,7 @@ A repository for M897564 Non-Relativistic Quantum Mechanics, NU
 |Th 1 Sep|**No class** (We Are IF activity)|
 |T 6 Sep|Simple Harmonic Oscillator (SHO) I|[Lecture I](https://github.com/Ninnat/quantum-mechanics/blob/main/lecture-notes/SHO.pdf) <br> Robert Littlejohn's [note on the SHO](http://bohr.physics.berkeley.edu/classes/221/1011/notes/harmosc.pdf)|C-T V|
 |W 7 Sep|SHO II||C-T V|
-|Th 8 Sep|SHO III; coherent states and classicaity||C-T G<sub>V</sub>|
+|Th 8 Sep|SHO III; coherent states and classicality||C-T G<sub>V</sub>|
 |T 13 Sep|Two-level systems I|
 |W 14 Sep||
 |Th 15 Sep||
