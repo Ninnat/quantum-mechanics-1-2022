@@ -20,12 +20,12 @@ A repository for M897564 Non-Relativistic Quantum Mechanics, NU
 
 |Date| Topics |Lecture notes|C-T|Resources|Homework|
 |:--:|:------:|:-----------:|:-:|:-------:|:------:|
-|T 30 Aug|Interlude, Review of postulates of quantum mechanics, Wigner's theorem|||A proof of Wigner's theorem can be found in Weinberg's [*The Quantum Theory of Fields*, Vol.1](https://www.amazon.com/Quantum-Theory-Fields-Foundations/dp/0521670535)|
+|T 30 Aug|Interlude, Review of postulates of quantum mechanics, Wigner's theorem|||A proof of Wigner's theorem can be found in Weinberg's [*The Quantum Theory of Fields*, Vol.1](https://www.amazon.com/Quantum-Theory-Fields-Foundations/dp/0521670535). <br> [Time evolution operator as time-ordered exponential](https://web.archive.org/web/20220709154510/http://scipp.ucsc.edu/~haber/ph215/TimeOrderedExp.pdf), [PH215](http://scipp.ucsc.edu/~haber/ph215/), UC Santa Cruz, Howard Haber|
 |W 31 Aug|**No tutorial class**|
 |Th 1 Sep|**No class** (We Are IF activity)|
-|T 6 Sep|Reminders about wave mechanics, Simple Harmonic Oscillator (SHO) I|[Lecture I](https://github.com/Ninnat/quantum-mechanics/blob/main/lecture-notes/SHO.pdf) |C-T V|Robert Littlejohn's [note on the SHO](http://bohr.physics.berkeley.edu/classes/221/1011/notes/harmosc.pdf)
-|W 7 Sep|SHO II||C-T V|
-|Th 8 Sep|SHO III; coherent states and classicality||C-T G<sub>V</sub>|
+|T 6 Sep|Reminders about wave mechanics, Simple Harmonic Oscillator (SHO) I|[Lecture I](https://github.com/Ninnat/quantum-mechanics/blob/main/lecture-notes/SHO.pdf) |V|Robert Littlejohn's [note on the SHO](http://bohr.physics.berkeley.edu/classes/221/1011/notes/harmosc.pdf)
+|W 7 Sep|SHO II||V|
+|Th 8 Sep|SHO III; coherent states and classicality||G<sub>V</sub>|
 |T 13 Sep|Two-level systems I|
 |W 14 Sep||
 |Th 15 Sep||
