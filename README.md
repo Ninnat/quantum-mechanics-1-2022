@@ -14,7 +14,8 @@ A repository for M897564 Non-Relativistic Quantum Mechanics, NU
 
 ## Resource
 
-* [C-T] *Quantum Mechanics*, Cohen-Tannoudji, Diu, and Laloë
+* [C-T] *Quantum Mechanics*, Claude Cohen-Tannoudji, Bernard Diu, and Franck Laloë, Volumes 1 and 2 (1977) 
+* [Bal] *Quantum Mechanics: A Modern Development*, Leslie E. Ballentine (1998) 
 
 ## Schedule
 
