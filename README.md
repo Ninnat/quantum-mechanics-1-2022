@@ -30,19 +30,19 @@ A repository for M897564 Non-Relativistic Quantum Mechanics, NU
 |Th 8 Sep <br> (**Special time!**) |SHO III; coherent states and classicality||G<sub>V</sub>|
 |T 13 Sep|Two-level systems I|
 |W 14 Sep|**No tutorial class**|
-|Th 15 Sep||
-|T 20 Sep|
+|Th 15 Sep|Lecture 6|
+|T 20 Sep|Lecture 7||
 |W 21 Sep|
-|Th 22 Sep|
-|T 27 Sep|
+|Th 22 Sep|Lecture 8|
+|T 27 Sep|Lecture 9|
 |W 28 Sep|
-|Th 29 Sep|
-|T 4 Oct|
+|Th 29 Sep|Lecture 10|
+|T 4 Oct|Lecture 11|
 |W 5 Oct|
-|Th 6 Oct|
-|T 11 Oct|
+|Th 6 Oct|Lecture 12|
+|T 11 Oct|Lecture 13|
 |W 12 Oct|
-|Th 13 Oct|
+|Th 13 Oct|Lecture 14|
 |T 18 Oct|
 |W 19 Oct|
 |Th 20 Oct|
