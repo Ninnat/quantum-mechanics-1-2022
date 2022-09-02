@@ -19,7 +19,7 @@ A repository for M897564 Non-Relativistic Quantum Mechanics, NU
 
 ## Schedule
 
-|Date| Topics |Lecture notes|C-T|Additional resources|Homework|
+|Date| Topics |Lecture note|C-T|Additional resources|Homework|
 |:--:|:------:|:-----------:|:-:|:-------------------|:------:|
 |T 30 Aug|Interlude, Review of postulates of quantum mechanics, Wigner's theorem, Ehrenfest theorem|||<li> A proof of Wigner's theorem can be found in Weinberg's [*The Quantum Theory of Fields*, Vol.1](https://www.amazon.com/Quantum-Theory-Fields-Foundations/dp/0521670535). <br> <li> [Time evolution operator as a time-ordered exponential](https://web.archive.org/web/20220709154510/http://scipp.ucsc.edu/~haber/ph215/TimeOrderedExp.pdf), Howard Haber|
 |W 31 Aug|**No tutorial class**|
