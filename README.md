@@ -26,7 +26,7 @@ A repository for M897564 Non-Relativistic Quantum Mechanics, NU
 |Th 1 Sep|**No class** (We Are IF activity)|
 |T 6 Sep|Reminders about wave mechanics, Simple Harmonic Oscillator (SHO) I: Heisenberg equations of motion, ladder operators|[SHO I-III](https://github.com/Ninnat/quantum-mechanics/blob/main/lecture-notes/SHO.pdf) |V|[Harmonic oscillators and coherent states](https://web.archive.org/web/20190728092630/http://bohr.physics.berkeley.edu/classes/221/1011/notes/harmosc.pdf), Robert G. Littlejohn |[HW1](https://github.com/Ninnat/quantum-mechanics/blob/main/assignments/hw1.pdf) OUT 
 |Th 8 Sep|SHO II||V|
-|Th 8 Sep|SHO III; coherent states and classicality||G<sub>V</sub>|
+|Th 8 Sep <br> (**Special time!**) |SHO III; coherent states and classicality||G<sub>V</sub>|
 |T 13 Sep|Two-level systems I|
 |W 14 Sep||
 |Th 15 Sep||
