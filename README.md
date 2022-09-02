@@ -29,7 +29,7 @@ A repository for M897564 Non-Relativistic Quantum Mechanics, NU
 |Th 8 Sep|SHO II||V|
 |Th 8 Sep <br> (**Special time!**) |SHO III; coherent states and classicality||G<sub>V</sub>|
 |T 13 Sep|Two-level systems I|
-|W 14 Sep||
+|W 14 Sep|**No tutorial class**|
 |Th 15 Sep||
 |T 20 Sep|
 |W 21 Sep|
