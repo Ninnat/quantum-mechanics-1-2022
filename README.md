@@ -46,7 +46,7 @@
 ||Th 13 Oct|Lecture 14|
 ||T 18 Oct|
 ||W 19 Oct|
-|HW5?|Th 20 Oct|
+|HW5?/Exam?|Th 20 Oct|
 ||T 25 Oct|
 ||W 26 Oct|
 ||Th 27 Oct|
