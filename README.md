@@ -33,7 +33,7 @@
 ||W 14 Sep|**No tutorial class**|
 ||Th 15 Sep|Lecture 6|
 ||T 20 Sep|Lecture 7||
-||W 21 Sep|
+||W 21 Sep| HW1 discussion
 ||Th 22 Sep|Lecture 8|
 ||T 27 Sep|Lecture 9|
 ||W 28 Sep|
