@@ -2,7 +2,7 @@
 
 ## Announcements
 
-* *6 Sep*: Homework 1 is out. Due to the fact that you will be having the midterm exam on September 14th, the tentative due date of the homework is Monday, September 19th (midnight).
+* *6 Sep*: Homework 1 is out. Due to the fact that you will be having the midterm exam on September 14th, the tentative due date of the homework is **Monday, September 19th** (midnight).
 
 <!--## Topics
 * Review of the formalism of quantum mechanics
