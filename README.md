@@ -1,16 +1,17 @@
-A repository for M897564 Non-Relativistic Quantum Mechanics, NU
-
 # M897564 Non-Relativistic Quantum Mechanics (2nd half)
 
-## Topics
+## Announcements
 
+* *6 Sep*: Homework 1 is out. The tentative due date is Sunday, September 18th (midnight) due to you guys having the midterm for the first half of the course on September 14th.  
+
+<!--## Topics
 * Review of the formalism of quantum mechanics
 * The simple harmonic oscilator and coherent states
 * Two-level systems, spin-1/2
 * Angular momentum, symmetries and conservation laws, spin dynamics
 * Addition of angular momenta, vector and tensor operators, the Wigner-Eckart theorem
 * Central potentials and the hydrogen atom
-* Additional topics if time permitted
+* Additional topics if time permitted-->
 
 ## Resource
 
