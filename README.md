@@ -25,7 +25,7 @@
 ||T 30 Aug|Interlude, Review of postulates of quantum mechanics, Wigner's theorem, Ehrenfest theorem|||<li> A proof of Wigner's theorem can be found in Weinberg's [*The Quantum Theory of Fields*, Vol.1](https://www.amazon.com/Quantum-Theory-Fields-Foundations/dp/0521670535). <br> <li> [Time evolution operator as a time-ordered exponential](https://web.archive.org/web/20220709154510/http://scipp.ucsc.edu/~haber/ph215/TimeOrderedExp.pdf), Howard Haber|
 ||W 31 Aug|**No tutorial class**|
 ||Th 1 Sep|**No class** (We Are IF activity)|
-|[HW1v2](https://github.com/Ninnat/quantum-mechanics/blob/main/assignments/hw1v2.pdf) OUT <br> **DUE M 19 Sep** (tentative)|T 6 Sep|Reminders about wave mechanics, Simple Harmonic Oscillator (SHO) I: Heisenberg equations of motion, ladder operators|[SHO I-III]https://github.com/Ninnat/quantum-mechanics/blob/main/lecture-notes/SHOv2.pdf) |V|[Harmonic oscillators and coherent states](https://web.archive.org/web/20190728092630/http://bohr.physics.berkeley.edu/classes/221/1011/notes/harmosc.pdf), Robert G. Littlejohn |
+|[HW1v2](https://github.com/Ninnat/quantum-mechanics/blob/main/assignments/hw1v2.pdf) OUT <br> **DUE M 19 Sep** (tentative)|T 6 Sep|Reminders about wave mechanics, Simple Harmonic Oscillator (SHO) I: Heisenberg equations of motion, ladder operators|[SHO I-III](https://github.com/Ninnat/quantum-mechanics/blob/main/lecture-notes/SHOv2.pdf) |V|[Harmonic oscillators and coherent states](https://web.archive.org/web/20190728092630/http://bohr.physics.berkeley.edu/classes/221/1011/notes/harmosc.pdf), Robert G. Littlejohn |
 ||W 7 Sep|**Moved to the afternoon of Th 8 Sep**|
 ||Th 8 Sep|SHO II||V|
 ||Th 8 Sep <br> (**Special time!**) |SHO III; coherent states and classicality||G<sub>V</sub>|
