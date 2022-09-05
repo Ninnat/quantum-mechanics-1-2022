@@ -30,7 +30,7 @@
 ||Th 8 Sep|SHO II||V|
 ||Th 8 Sep <br> (**Special time!**) |SHO III; coherent states and classicality||G<sub>V</sub>|
 ||T 13 Sep|Two-level systems I|
-||W 14 Sep|**No tutorial class**|
+||W 14 Sep|**No tutorial class** (Midterm exam)|
 ||Th 15 Sep|Lecture 6|
 |HW2|T 20 Sep|Lecture 7||
 ||W 21 Sep| HW1 discussion
