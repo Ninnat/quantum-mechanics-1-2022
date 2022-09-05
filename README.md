@@ -2,7 +2,7 @@
 
 ## Announcements
 
-* *5 Sep*: [Homework 1](https://github.com/Ninnat/quantum-mechanics/blob/main/assignments/hw1v3.pdf) (v3) is out. Due to the fact that you will be having the midterm exam on September 14th, the tentative due date of the homework is **Monday, September 19th** (midnight).
+* *6 Sep*: [Homework 1](https://github.com/Ninnat/quantum-mechanics/blob/main/assignments/hw1v3.pdf) (v3) is out. Due to the fact that you will be having the midterm exam on September 14th, the tentative due date of the homework is **Monday, September 19th** (midnight, before Tuesday).
 
 <!--## Topics
 * Review of the formalism of quantum mechanics
