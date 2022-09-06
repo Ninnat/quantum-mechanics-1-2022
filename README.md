@@ -29,7 +29,7 @@
 |[HW1v3](https://github.com/Ninnat/quantum-mechanics/blob/main/assignments/hw1v3.pdf) OUT <br> **DUE M 19 Sep** (tentative)|T 6 Sep|Simple Harmonic Oscillator (SHO) I: Heisenberg equations of motion, ladder operators, spectrum|[SHO I-III](https://github.com/Ninnat/quantum-mechanics/blob/main/lecture-notes/SHOv2.pdf) |V|[Harmonic oscillators and coherent states](https://web.archive.org/web/20190728092630/http://bohr.physics.berkeley.edu/classes/221/1011/notes/harmosc.pdf), Robert G. Littlejohn |
 ||W 7 Sep|**Moved to the afternoon of Th 8 Sep**|
 ||Th 8 Sep|SHO II: Spectrum (cont.), reminders about wave mechanics, stationary states, coherent states and classical behavior||V|
-||Th 8 Sep <br> 13:30-15:00 <br> (**Special time!**) |SHO III; coherent states and classicality||G<sub>V</sub>|
+||Th 8 Sep <br> 13:30-15:00 <br> (**Special time!**) |SHO III?||G<sub>V</sub>|
 ||T 13 Sep|Two-level systems I|
 ||W 14 Sep|**No tutorial class** (Midterm exam)|
 ||Th 15 Sep|Lecture 6|
