@@ -3,7 +3,6 @@
 ## Announcements
 
 * *6 Sep*: The make-up class on Thursday, September 8th will be from 13:30 to 15:00.
-
 * *6 Sep*: [Homework 1](https://github.com/Ninnat/quantum-mechanics/blob/main/assignments/hw1v3.pdf) (v3) is out. Due to the fact that you will be having the midterm exam on September 14th, the tentative due date of the homework is **Monday, September 19th** (midnight, before Tuesday).
 
 <!--## Topics
