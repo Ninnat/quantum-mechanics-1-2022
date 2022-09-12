@@ -30,7 +30,7 @@
 ||W 7 Sep|**Moved to the afternoon of Th 8 Sep**|
 ||Th 8 Sep|SHO II: Spectrum (cont.), reminders about wave mechanics, statistical moments in stationary states||V|
 ||Th 8 Sep <br> 13:30-15:00 <br> (**Special time!**) |SHO III: Coherent states and classical behavior||G<sub>V</sub>|
-||T 13 Sep|Two-level systems I|[Animation of linear, circular, and elliptical polarization](https://www.youtube.com/watch?v=Q0qrU4nprB0)
+||T 13 Sep|Two-level systems I|||[Animation](https://www.youtube.com/watch?v=Q0qrU4nprB0) of linear, circular, and elliptical polarization
 ||W 14 Sep|**No tutorial class** (Midterm exam)|
 ||Th 15 Sep|Two-level systems II|
 |HW2|T 20 Sep|Lecture 7||
