@@ -26,11 +26,11 @@
 ||T 30 Aug|Interlude, Review of postulates of quantum mechanics, Wigner's theorem, Ehrenfest theorem|||<li> A proof of Wigner's theorem can be found in Weinberg's [*The Quantum Theory of Fields*, Vol.1](https://www.amazon.com/Quantum-Theory-Fields-Foundations/dp/0521670535). <br> <li> [Time evolution operator as a time-ordered exponential](https://web.archive.org/web/20220709154510/http://scipp.ucsc.edu/~haber/ph215/TimeOrderedExp.pdf), Howard Haber|
 ||W 31 Aug|**No tutorial class**|
 ||Th 1 Sep|**No class** (We Are IF activity)|
-|[HW1v3](https://github.com/Ninnat/quantum-mechanics/blob/main/assignments/hw1v3.pdf) OUT <br> **DUE M 19 Sep** (tentative)|T 6 Sep|Simple Harmonic Oscillator (SHO) I: Heisenberg equations of motion, ladder operators, spectrum|[SHO I-III](https://github.com/Ninnat/quantum-mechanics/blob/main/lecture-notes/SHOv2.pdf) |V|[Harmonic oscillators and coherent states](https://web.archive.org/web/20190728092630/http://bohr.physics.berkeley.edu/classes/221/1011/notes/harmosc.pdf), Robert G. Littlejohn |
+|[HW1v3](https://github.com/Ninnat/quantum-mechanics/blob/main/assignments/hw1v3.pdf) OUT <br> **DUE M 19 Sep** (tentative)|T 6 Sep|Simple Harmonic Oscillator (SHO) I: Heisenberg equations of motion, ladder operators, spectrum|[SHO I-III](https://github.com/Ninnat/quantum-mechanics/blob/main/lecture-notes/SHOv2.pdf) |V,B<sub>V</sub>,G<sub>V</sub>|[Harmonic oscillators and coherent states](https://web.archive.org/web/20190728092630/http://bohr.physics.berkeley.edu/classes/221/1011/notes/harmosc.pdf), Robert G. Littlejohn |
 ||W 7 Sep|**Moved to the afternoon of Th 8 Sep**|
 ||Th 8 Sep|SHO II: Spectrum (cont.), reminders about wave mechanics, statistical moments in stationary states||V|
-||Th 8 Sep <br> 13:30-15:00 <br> (**Special time!**) |SHO III: Coherent states and classical behavior||G<sub>V</sub>|
-||T 13 Sep|Coherent states (cont.) and summary. Two-level systems I: polarization and Poincaré sphere, spin-1/2|||[Animation](https://www.youtube.com/watch?v=Q0qrU4nprB0) of linear, circular, and elliptical polarization
+||Th 8 Sep <br> 13:30-15:00 <br> (**Special time!**) |SHO III: Coherent states and classical behavior|
+||T 13 Sep|Coherent states (cont.) and summary. Two-level systems I: polarization and Poincaré sphere, spin-1/2|||[Animation](https://www.youtube.com/watch?v=Q0qrU4nprB0) of linear, circular, and elliptical polarization||IV, A<sub>IV</sub>, B<sub>IV</sub>|
 ||W 14 Sep|**No tutorial class** (Midterm exam)|
 ||Th 15 Sep|Two-level systems II: Bloch sphere geometry, Pauli matrix algebra|
 |HW2|T 20 Sep|Lecture 7||
