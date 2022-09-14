@@ -33,7 +33,7 @@
 ||T 13 Sep|Coherent states (cont.) and summary. Two-level systems I: polarization and Poincaré sphere|[Two-level systems I-II](https://github.com/Ninnat/quantum-mechanics/blob/main/lecture-notes/Two-level.pdf)|IV <br> A<sub>IV</sub> <br> B<sub>IV</sub>|[Animation](https://www.youtube.com/watch?v=Q0qrU4nprB0) of linear, circular, and elliptical polarization|
 ||W 14 Sep|**No tutorial class** (Midterm exam)|
 ||Th 15 Sep|Two-level systems II: Bloch sphere geometry, Pauli matrix algebra|||[Notes on Einstein summation convention](https://github.com/Ninnat/quantum-mechanics/blob/main/lecture-notes/Einstein-convention-notes.pdf) <br> from Classical Electrodynamics
-|HW2|T 20 Sep|Lecture 7||
+|HW2|T 20 Sep|3D problems, tensor product, occupation-number representation ("second quantization")||
 ||W 21 Sep| HW1 discussion
 ||Th 22 Sep|Lecture 8|
 ||T 27 Sep|Lecture 9|
