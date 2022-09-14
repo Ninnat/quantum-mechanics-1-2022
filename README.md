@@ -30,9 +30,9 @@
 ||W 7 Sep|**Moved to the afternoon of Th 8 Sep**|
 ||Th 8 Sep|SHO II: Spectrum (cont.), reminders about wave mechanics, statistical moments in stationary states|
 ||Th 8 Sep <br> 13:30-15:00 <br> (**Special time!**) |SHO III: Coherent states and classical behavior|
-||T 13 Sep|Coherent states (cont.) and summary. Two-level systems I: polarization and Poincaré sphere|[Two-level systems I](https://github.com/Ninnat/quantum-mechanics/blob/main/lecture-notes/Two-level%20I.pdf)|IV <br> A<sub>IV</sub> <br> B<sub>IV</sub>|[Animation](https://www.youtube.com/watch?v=Q0qrU4nprB0) of linear, circular, and elliptical polarization|
+||T 13 Sep|Coherent states (cont.) and summary. Two-level systems I: polarization and Poincaré sphere|[Two-level systems](https://github.com/Ninnat/quantum-mechanics/blob/main/lecture-notes/Two-level.pdf)|IV <br> A<sub>IV</sub> <br> B<sub>IV</sub>|[Animation](https://www.youtube.com/watch?v=Q0qrU4nprB0) of linear, circular, and elliptical polarization|
 ||W 14 Sep|**No tutorial class** (Midterm exam)|
-||Th 15 Sep|Two-level systems II: Bloch sphere geometry, Pauli matrix algebra|
+||Th 15 Sep|Two-level systems II: Bloch sphere geometry, Pauli matrix algebra|||[Notes on Einstein summation convention](https://github.com/Ninnat/quantum-mechanics/blob/main/lecture-notes/Einstein-convention-notes.pdf) <br> from Classical Electrodynamics
 |HW2|T 20 Sep|Lecture 7||
 ||W 21 Sep| HW1 discussion
 ||Th 22 Sep|Lecture 8|
