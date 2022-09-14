@@ -35,16 +35,16 @@
 ||Th 15 Sep|Two-level systems II: Bloch sphere geometry, Pauli matrix algebra|||[Notes on Einstein summation convention](https://github.com/Ninnat/quantum-mechanics/blob/main/lecture-notes/Einstein-convention-notes.pdf) <br> from Classical Electrodynamics
 |HW2|T 20 Sep|3D problems, tensor product, occupation-number representation ("second quantization")||
 ||W 21 Sep| HW1 discussion
-||Th 22 Sep|Lecture 8|
-||T 27 Sep|Lecture 9|
+||Th 22 Sep|Angular momentum I|
+||T 27 Sep|Angular momentum II|
 ||W 28 Sep|
-|HW3|Th 29 Sep|Lecture 10|
-||T 4 Oct|Lecture 11|
+|HW3|Th 29 Sep|Angular momentum III|
+||T 4 Oct|Angular momentum IV|
 ||W 5 Oct|
-||Th 6 Oct|Lecture 12|
-|HW4|T 11 Oct|Lecture 13|
+||Th 6 Oct|Angular momentum V|
+|HW4|T 11 Oct|Central potential I|
 ||W 12 Oct|
-||Th 13 Oct|Lecture 14|
+||Th 13 Oct|Central potential II|
 ||T 18 Oct|
 ||W 19 Oct|
 |HW5?|Th 20 Oct|
