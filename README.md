@@ -2,6 +2,7 @@
 
 ## Announcements
 
+* *19 Sep*: The due date for HW1 is moved to Wednesday, September 21st
 * *6 Sep*: The make-up class on Thursday, September 8th will be from 13:30 to 15:00.
 * *6 Sep*: [Homework 1](https://github.com/Ninnat/quantum-mechanics/blob/main/assignments/hw1v3.pdf) (v3) is out. Due to the fact that you will be having the midterm exam on September 14th, the tentative due date of the homework is **Monday, September 19th** (midnight, before Tuesday).
 
@@ -26,7 +27,7 @@
 ||T 30 Aug|Interlude, Review of postulates of quantum mechanics, Wigner's theorem, Ehrenfest theorem|||<li> A proof of Wigner's theorem can be found in Weinberg's [*The Quantum Theory of Fields*, Vol.1](https://www.amazon.com/Quantum-Theory-Fields-Foundations/dp/0521670535). <br> <li> [Time evolution operator as a time-ordered exponential](https://web.archive.org/web/20220709154510/http://scipp.ucsc.edu/~haber/ph215/TimeOrderedExp.pdf), Howard Haber|
 ||W 31 Aug|**No tutorial class**|
 ||Th 1 Sep|**No class** (We Are IF activity)|
-|[HW1v3](https://github.com/Ninnat/quantum-mechanics/blob/main/assignments/hw1v3.pdf) OUT <br> **DUE M 19 Sep** (tentative)|T 6 Sep|Simple Harmonic Oscillator (SHO) I: Heisenberg equations of motion, ladder operators, spectrum|[SHO I-III](https://github.com/Ninnat/quantum-mechanics/blob/main/lecture-notes/SHOv2.pdf) |V <br> B<sub>V</sub> <br> G<sub>V</sub>|[Harmonic oscillators and coherent states](https://web.archive.org/web/20190728092630/http://bohr.physics.berkeley.edu/classes/221/1011/notes/harmosc.pdf), Robert G. Littlejohn |
+|[HW1v3](https://github.com/Ninnat/quantum-mechanics/blob/main/assignments/hw1v3.pdf) OUT <br> **DUE W 21 Sep**|T 6 Sep|Simple Harmonic Oscillator (SHO) I: Heisenberg equations of motion, ladder operators, spectrum|[SHO I-III](https://github.com/Ninnat/quantum-mechanics/blob/main/lecture-notes/SHOv2.pdf) |V <br> B<sub>V</sub> <br> G<sub>V</sub>|[Harmonic oscillators and coherent states](https://web.archive.org/web/20190728092630/http://bohr.physics.berkeley.edu/classes/221/1011/notes/harmosc.pdf), Robert G. Littlejohn |
 ||W 7 Sep|**Moved to the afternoon of Th 8 Sep**|
 ||Th 8 Sep|SHO II: Spectrum (cont.), reminders about wave mechanics, statistical moments in stationary states|
 ||Th 8 Sep <br> 13:30-15:00 <br> (**Special time!**) |SHO III: Coherent states and classical behavior|
