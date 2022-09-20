@@ -15,34 +15,34 @@
 * Central potentials and the hydrogen atom
 * Additional topics if time permitted-->
 
-## Resource
+## Resources
 
 * [C-T] *Quantum Mechanics*, Claude Cohen-Tannoudji, Bernard Diu, and Franck Laloë, Volumes 1 and 2 (1977) 
 * [Bal] *Quantum Mechanics: A Modern Development*, Leslie E. Ballentine (1998) 
 
 ## Schedule
 
-|Homework|Date| Topics |Lecture note|C-T|Additional resources|
-|:------:|:--:|:------:|:-----------:|:-:|:-------------------|
+|Homework|Date| Topics |Lecture note|Resources|Additional resources|
+|:------:|:--:|:------:|:----------:|:--------:|:-------------------|
 ||T 30 Aug|Interlude, Review of postulates of quantum mechanics, Wigner's theorem, Ehrenfest theorem|||<li> A proof of Wigner's theorem can be found in Weinberg's [*The Quantum Theory of Fields*, Vol.1](https://www.amazon.com/Quantum-Theory-Fields-Foundations/dp/0521670535). <br> <li> [Time evolution operator as a time-ordered exponential](https://web.archive.org/web/20220709154510/http://scipp.ucsc.edu/~haber/ph215/TimeOrderedExp.pdf), Howard Haber|
 ||W 31 Aug|**No tutorial class**|
 ||Th 1 Sep|**No class** (We Are IF activity)|
-|[HW1v3](https://github.com/Ninnat/quantum-mechanics/blob/main/assignments/hw1v3.pdf) OUT <br> **DUE W 21 Sep**|T 6 Sep|Simple Harmonic Oscillator (SHO) I: Heisenberg equations of motion, ladder operators, spectrum|[SHO I-III](https://github.com/Ninnat/quantum-mechanics/blob/main/lecture-notes/SHOv2.pdf) |V <br> B<sub>V</sub> <br> G<sub>V</sub>|[Harmonic oscillators and coherent states](https://web.archive.org/web/20190728092630/http://bohr.physics.berkeley.edu/classes/221/1011/notes/harmosc.pdf), Robert G. Littlejohn |
+|[HW1v3](https://github.com/Ninnat/quantum-mechanics/blob/main/assignments/hw1v3.pdf) OUT <br> **DUE W 21 Sep**|T 6 Sep|Simple Harmonic Oscillator (SHO) I: Heisenberg equations of motion, ladder operators, spectrum|[SHO I-III](https://github.com/Ninnat/quantum-mechanics/blob/main/lecture-notes/SHOv2.pdf) |C-T V <br> B<sub>V</sub> <br> G<sub>V</sub>|[Harmonic oscillators and coherent states](https://web.archive.org/web/20190728092630/http://bohr.physics.berkeley.edu/classes/221/1011/notes/harmosc.pdf), Robert G. Littlejohn |
 ||W 7 Sep|**Moved to the afternoon of Th 8 Sep**|
 ||Th 8 Sep|SHO II: Spectrum (cont.), reminders about wave mechanics, statistical moments in stationary states|
 ||Th 8 Sep <br> 13:30-15:00 <br> (**Special time!**) |SHO III: Coherent states and classical behavior|
-||T 13 Sep|Coherent states (cont.) and summary. Two-level systems I: polarization and Poincaré sphere|[Two-level systems I-III](https://github.com/Ninnat/quantum-mechanics/blob/main/lecture-notes/Two-level.pdf)|IV <br> A<sub>IV</sub> <br> B<sub>IV</sub>|[Animation](https://www.youtube.com/watch?v=Q0qrU4nprB0) of linear, circular, and elliptical polarization|
+||T 13 Sep|Coherent states (cont.) and summary. Two-level systems I: polarization and Poincaré sphere|[Two-level systems I-III](https://github.com/Ninnat/quantum-mechanics/blob/main/lecture-notes/Two-level.pdf)|C-T IV <br> A<sub>IV</sub> <br> B<sub>IV</sub>|[Animation](https://www.youtube.com/watch?v=Q0qrU4nprB0) of linear, circular, and elliptical polarization|
 ||W 14 Sep|**No tutorial class** (Midterm exam)|
 ||Th 15 Sep|Two-level systems II: Poincaré/Bloch sphere geometry, Pauli matrix algebra|
 ||T 20 Sep|Two-level systems III: Poincaré/Bloch sphere geometry (cont.)|||[Notes on Einstein summation convention](https://github.com/Ninnat/quantum-mechanics/blob/main/lecture-notes/Einstein-convention-notes.pdf) <br> from Classical Electrodynamics
-|HW1 DUE|W 21 Sep| 
-||Th 22 Sep|Angular momentum I|
-||T 27 Sep|Angular momentum II|
+|HW1 DUE|W 21 Sep|Angular momentum I|C-T VI <br> X <br> Bal 7| 
+||Th 22 Sep|Angular momentum II|
+||T 27 Sep|Angular momentum III|
 ||W 28 Sep|
-|HW3|Th 29 Sep|Angular momentum III|
-||T 4 Oct|Angular momentum IV|
+|HW3|Th 29 Sep|Angular momentum IV|
+||T 4 Oct|Angular momentum V|
 ||W 5 Oct|
-||Th 6 Oct|Angular momentum V|
+||Th 6 Oct|Angular momentum VI|
 |HW4|T 11 Oct|Central potential I|
 ||W 12 Oct|
 ||Th 13 Oct|Central potential II|
