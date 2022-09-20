@@ -43,7 +43,7 @@
 ||T 4 Oct|Angular momentum V|
 ||W 5 Oct|
 ||Th 6 Oct|Angular momentum VI|
-|HW4|T 11 Oct|Central potential I|
+|HW4|T 11 Oct|Central potential I||C-T VII
 ||W 12 Oct|
 ||Th 13 Oct|Central potential II|
 ||T 18 Oct|
