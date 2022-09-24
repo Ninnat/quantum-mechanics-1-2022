@@ -40,16 +40,16 @@
 |[HW2](https://github.com/Ninnat/quantum-mechanics/blob/main/assignments/hw2.pdf) OUT <br> **DUE T 4 Oct**|Th 22 Sep|Angular momentum II|
 ||T 27 Sep|Angular momentum III|
 ||W 28 Sep|
-|HW3|Th 29 Sep|Angular momentum IV|
+||Th 29 Sep|Angular momentum IV|
 |HW2 DUE|T 4 Oct|Angular momentum V|
 ||W 5 Oct|
 ||Th 6 Oct|Angular momentum VI|
-|HW4|T 11 Oct|Central potential I||C-T VII
+||T 11 Oct|Central potential I||C-T VII
 ||W 12 Oct|
 ||Th 13 Oct|Central potential II|
 ||T 18 Oct|
 ||W 19 Oct|
-|HW5?|Th 20 Oct|
+||Th 20 Oct|
 |Exam week|T 25 Oct|
 ||W 26 Oct|
 ||Th 27 Oct|
