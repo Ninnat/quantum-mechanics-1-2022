@@ -39,10 +39,10 @@
 |HW1 DUE|W 21 Sep|Angular momentum I: General properties|[Angular Momentum I-II](https://github.com/Ninnat/quantum-mechanics/blob/main/lecture-notes/Angular1.pdf)|C-T VI <br> C-T X (Vol.2) <br> Bal 7| 
 |[HW2](https://github.com/Ninnat/quantum-mechanics/blob/main/assignments/hw2.pdf) OUT <br> **DUE T 4 Oct**|Th 22 Sep|Angular momentum II: General properties (cont.), the spectrum|
 ||T 27 Sep|Angular momentum III: representation in position space, spherical harmonics|
-||W 28 Sep|HW1 discussion
+||W 28 Sep|**HW1 discussion**
 ||Th 29 Sep|Angular momentum IV: Symmetries|
 |HW2 DUE|T 4 Oct|Angular momentum V: Tensor operators and superselection rules|
-||W 5 Oct|HW2 discussion
+||W 5 Oct|**HW2 discussion**
 ||Th 6 Oct|Angular momentum VI|
 ||T 11 Oct|Central potential I||C-T VII
 ||W 12 Oct|
