@@ -36,8 +36,8 @@
 ||W 14 Sep|**No tutorial class** (Midterm exam)|
 ||Th 15 Sep|Two-level systems II: Poincaré/Bloch sphere geometry, Pauli matrix algebra|
 ||T 20 Sep|Two-level systems III: Poincaré/Bloch sphere geometry (cont.)|||[Notes on Einstein summation convention](https://github.com/Ninnat/quantum-mechanics/blob/main/lecture-notes/Einstein-convention-notes.pdf) <br> from Classical Electrodynamics
-|HW1 DUE|W 21 Sep|Angular momentum I|[Angular Momentum I-II](https://github.com/Ninnat/quantum-mechanics/blob/main/lecture-notes/Angular1.pdf)|C-T VI <br> C-T X (Vol.2) <br> Bal 7| 
-|[HW2](https://github.com/Ninnat/quantum-mechanics/blob/main/assignments/hw2.pdf) OUT <br> **DUE T 4 Oct**|Th 22 Sep|Angular momentum II|
+|HW1 DUE|W 21 Sep|Angular momentum I: General properties|[Angular Momentum I-II](https://github.com/Ninnat/quantum-mechanics/blob/main/lecture-notes/Angular1.pdf)|C-T VI <br> C-T X (Vol.2) <br> Bal 7| 
+|[HW2](https://github.com/Ninnat/quantum-mechanics/blob/main/assignments/hw2.pdf) OUT <br> **DUE T 4 Oct**|Th 22 Sep|Angular momentum II: General properties (cont.)|
 ||T 27 Sep|Angular momentum III|
 ||W 28 Sep|
 ||Th 29 Sep|Angular momentum IV|
