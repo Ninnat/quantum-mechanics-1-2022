@@ -28,17 +28,17 @@
 ||T 30 Aug|Interlude, Review of postulates of quantum mechanics, Wigner's theorem, Ehrenfest theorem|||<li> A proof of Wigner's theorem can be found in Weinberg's [*The Quantum Theory of Fields*, Vol.1](https://www.amazon.com/Quantum-Theory-Fields-Foundations/dp/0521670535). <br> <li> [Time evolution operator as a time-ordered exponential](https://web.archive.org/web/20220709154510/http://scipp.ucsc.edu/~haber/ph215/TimeOrderedExp.pdf), Howard Haber|
 ||W 31 Aug|**No tutorial class**|
 ||Th 1 Sep|**No class** (We Are IF activity)|
-|[HW1v3](https://github.com/Ninnat/quantum-mechanics/blob/main/assignments/hw1v3.pdf) OUT <br> **DUE W 21 Sep**|T 6 Sep|Simple Harmonic Oscillator (SHO) I: Heisenberg equations of motion, ladder operators, spectrum|[SHO I-III](https://github.com/Ninnat/quantum-mechanics/blob/main/lecture-notes/SHOv2.pdf) |C-T: V <br> B<sub>V</sub> <br> G<sub>V</sub>|[Harmonic oscillators and coherent states](https://web.archive.org/web/20190728092630/http://bohr.physics.berkeley.edu/classes/221/1011/notes/harmosc.pdf), Robert G. Littlejohn |
+|[HW1v3](https://github.com/Ninnat/quantum-mechanics/blob/main/assignments/hw1v3.pdf) OUT <br> **DUE W 21 Sep**|T 6 Sep|Simple Harmonic Oscillator (SHO) I: Heisenberg equations of motion, ladder operators, the spectrum|[SHO I-III](https://github.com/Ninnat/quantum-mechanics/blob/main/lecture-notes/SHOv2.pdf) |C-T: V <br> B<sub>V</sub> <br> G<sub>V</sub>|[Harmonic oscillators and coherent states](https://web.archive.org/web/20190728092630/http://bohr.physics.berkeley.edu/classes/221/1011/notes/harmosc.pdf), Robert G. Littlejohn |
 ||W 7 Sep|**Moved to the afternoon of Th 8 Sep**|
-||Th 8 Sep|SHO II: Spectrum (cont.), reminders about wave mechanics, statistical moments in stationary states|
+||Th 8 Sep|SHO II: The spectrum (cont.), reminders about wave mechanics, statistical moments in stationary states|
 ||Th 8 Sep <br> 13:30-15:00 <br> (**Special time!**) |SHO III: Coherent states and classical behavior|
 ||T 13 Sep|Coherent states (cont.) and summary. Two-level systems I: polarization and Poincaré sphere|[Two-level systems I-III](https://github.com/Ninnat/quantum-mechanics/blob/main/lecture-notes/Two-level.pdf)|C-T: IV <br> A<sub>IV</sub> <br> B<sub>IV</sub> <br> (E<sub>IV</sub>) <br> (F<sub>IV</sub>)|[Animation](https://www.youtube.com/watch?v=Q0qrU4nprB0) of linear, circular, and elliptical polarization|
 ||W 14 Sep|**No tutorial class** (Midterm exam)|
 ||Th 15 Sep|Two-level systems II: Poincaré/Bloch sphere geometry, Pauli matrix algebra|
 ||T 20 Sep|Two-level systems III: Poincaré/Bloch sphere geometry (cont.)|||[Notes on Einstein summation convention](https://github.com/Ninnat/quantum-mechanics/blob/main/lecture-notes/Einstein-convention-notes.pdf) <br> from Classical Electrodynamics
 |HW1 DUE|W 21 Sep|Angular momentum I: General properties|[Angular Momentum I-II](https://github.com/Ninnat/quantum-mechanics/blob/main/lecture-notes/Angular1.pdf)|C-T VI <br> C-T X (Vol.2) <br> Bal 7| 
-|[HW2](https://github.com/Ninnat/quantum-mechanics/blob/main/assignments/hw2.pdf) OUT <br> **DUE T 4 Oct**|Th 22 Sep|Angular momentum II: General properties (cont.)|
-||T 27 Sep|Angular momentum III|
+|[HW2](https://github.com/Ninnat/quantum-mechanics/blob/main/assignments/hw2.pdf) OUT <br> **DUE T 4 Oct**|Th 22 Sep|Angular momentum II: General properties (cont.), the spectrum|
+||T 27 Sep|Angular momentum III: representation in position space, spherical harmonics|
 ||W 28 Sep|
 ||Th 29 Sep|Angular momentum IV|
 |HW2 DUE|T 4 Oct|Angular momentum V|
