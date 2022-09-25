@@ -2,7 +2,7 @@
 
 ## Announcements
 
-* *24 Sep*: The full [homework set 2](https://github.com/Ninnat/quantum-mechanics/blob/main/assignments/hw2.pdf) is out.
+* *24 Sep*: The full [homework set 2](https://github.com/Ninnat/quantum-mechanics/blob/main/assignments/hw2v2.pdf) (v2) is out.
 * *19 Sep*: The due date for HW1 is moved to Wednesday, September 21st
 * *6 Sep*: The make-up class on Thursday, September 8th will be from 13:30 to 15:00.
 * *6 Sep*: [Homework 1](https://github.com/Ninnat/quantum-mechanics/blob/main/assignments/hw1v3.pdf) (v3) is out. Due to the fact that you will be having the midterm exam on September 14th, the tentative due date of the homework is **Monday, September 19th** (midnight, before Tuesday).
@@ -37,7 +37,7 @@
 ||Th 15 Sep|Two-level systems II: Poincaré/Bloch sphere geometry, Pauli matrix algebra|
 ||T 20 Sep|Two-level systems III: Poincaré/Bloch sphere geometry (cont.)|||[Notes on Einstein summation convention](https://github.com/Ninnat/quantum-mechanics/blob/main/lecture-notes/Einstein-convention-notes.pdf) <br> from Classical Electrodynamics
 |HW1 DUE|W 21 Sep|Angular momentum I: General properties|[Angular Momentum I-II](https://github.com/Ninnat/quantum-mechanics/blob/main/lecture-notes/Angular1.pdf)|C-T VI <br> C-T X (Vol.2) <br> Bal 7| 
-|[HW2](https://github.com/Ninnat/quantum-mechanics/blob/main/assignments/hw2.pdf) OUT <br> **DUE T 4 Oct**|Th 22 Sep|Angular momentum II: General properties (cont.), the spectrum|
+|[HW2v2](https://github.com/Ninnat/quantum-mechanics/blob/main/assignments/hw2v2.pdf) OUT <br> **DUE T 4 Oct**|Th 22 Sep|Angular momentum II: General properties (cont.), the spectrum|
 ||T 27 Sep|Angular momentum III: representation in position space, spherical harmonics|
 ||W 28 Sep|**HW1 discussion**
 ||Th 29 Sep|Angular momentum IV: Symmetries|
