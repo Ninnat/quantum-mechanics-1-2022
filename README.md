@@ -46,7 +46,7 @@
 ||Th 6 Oct|Angular momentum VI|
 ||T 11 Oct|Central potential I||C-T VII
 ||W 12 Oct|
-||Th 13 Oct|Central potential II|
+|HW3 DUE?|Th 13 Oct|Central potential II|
 ||T 18 Oct|
 ||W 19 Oct|
 ||Th 20 Oct|
