@@ -41,13 +41,13 @@
 ||T 27 Sep|Symmetries and transformations I: group representations and Lie algebras, the translation group|
 ||W 28 Sep|**HW1 discussion**
 ||Th 29 Sep|Symmetries and transformations II: The rotation group|
-|HW2 DUE|T 4 Oct|Angular momentum III: Tensor operators and superselection rules|
+|HW2 DUE|T 4 Oct|Angular momentum III: spherical harmonics|
 ||W 5 Oct|**HW2 discussion**
 ||Th 6 Oct|Angular momentum IV|
-||T 11 Oct|Central potential I||C-T VII
+||T 11 Oct|Central potential I?||C-T VII
 ||W 12 Oct|
-|HW3 DUE?|Th 13 Oct|Central potential II|
-||T 18 Oct|Central potential III|
+|HW3 DUE?|Th 13 Oct|Central potential II?|
+||T 18 Oct|Central potential III?|
 ||W 19 Oct|
 ||Th 20 Oct|
 |Exam week|T 25 Oct|
