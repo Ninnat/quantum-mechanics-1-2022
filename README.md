@@ -2,7 +2,7 @@
 
 ## Announcements
 
-* *4 Oct*: The last homework set, [HW3](https://github.com/Ninnat/quantum-mechanics/blob/main/assignments/hw3.pdf) is out. It should be due some time in the week of October 17th to 21st.
+* *4 Oct*: The last homework set, [HW3](https://github.com/Ninnat/quantum-mechanics/blob/main/assignments/hw3.pdf) is out. It should be due some time in the week of October 17th to 21st. Beware that it contains **6 problem**, so manage your time well.
 * *24 Sep*: The full [homework set 2](https://github.com/Ninnat/quantum-mechanics/blob/main/assignments/hw2v2.pdf) (now v2) is out.
 * *19 Sep*: The due date for HW1 is moved to Wednesday, September 21st
 * *6 Sep*: The make-up class on Thursday, September 8th will be from 13:30 to 15:00.
