@@ -36,15 +36,15 @@
 ||W 14 Sep|**No tutorial class** (Midterm exam)|
 ||Th 15 Sep|Two-level systems II: Poincaré/Bloch sphere geometry, Pauli matrix algebra|
 ||T 20 Sep|Two-level systems III: Poincaré/Bloch sphere geometry (cont.)|||[Notes on Einstein summation convention](https://github.com/Ninnat/quantum-mechanics/blob/main/lecture-notes/Einstein-convention-notes.pdf) <br> from Classical Electrodynamics
-|HW1 DUE|W 21 Sep|Angular momentum I: General properties|[Angular Momentum I-II](https://github.com/Ninnat/quantum-mechanics/blob/main/lecture-notes/Angular1.pdf)|C-T: VI <br> A<sub>VI</sub> <br> B<sub>VI</sub> <br> X (Vol.2) <br> Bal: 7| 
+|HW1 DUE|W 21 Sep|Angular momentum I: General properties|[Angular Momentum I-II](https://github.com/Ninnat/quantum-mechanics/blob/main/lecture-notes/Angular1.pdf)|C-T: VI <br> A<sub>VI</sub> <br> B<sub>VI</sub> <br> Bal: 7| 
 |[HW2v2](https://github.com/Ninnat/quantum-mechanics/blob/main/assignments/hw2v2.pdf) OUT <br> **DUE T 4 Oct**|Th 22 Sep|Angular momentum II: General properties (cont.), the spectrum|
 ||T 27 Sep|Symmetries and transformations I: group representations and Lie algebras, the translation group|[Symmetries and angular momentum III](https://github.com/Ninnat/quantum-mechanics/blob/main/lecture-notes/Angular2.pdf)||Walter Appel, *Mathematics for Physics and Physicists*|
 ||W 28 Sep|**HW1 discussion**
 ||Th 29 Sep|Symmetries and transformations II: The rotation group|
 |HW2 DUE|T 4 Oct|Angular momentum III: spherical harmonics|
 ||W 5 Oct|**HW2 discussion**
-||Th 6 Oct|Addition of angular momenta I: Tensor product, addition of angular momentum|The rest|
-||T 11 Oct|Addition of angular momenta II: Additional of angular momentum (cont.), Clebsch-Gordan series||C-T VII
+||Th 6 Oct|Addition of angular momenta I: Tensor product, addition of angular momenta|The rest|C-T X (Vol.2) <br> A<sub>X</sub> <br> B<sub>X</sub> <br> D<sub>X</sub> <br> E<sub>X</sub> <br> Bal 7|
+||T 11 Oct|Addition of angular momenta II: Additional of angular momenta (cont.), Clebsch-Gordan series||C-T VII
 ||W 12 Oct|Addition of angular momenta III: The Wigner-Eckart theorem and its applications: superselection rules
 ||Th 13 Oct|Addition of angular momenta IV: Superselection rules (cont.)|
 |HW3 DUE?|T 18 Oct|
