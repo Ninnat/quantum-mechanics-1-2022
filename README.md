@@ -43,8 +43,8 @@
 ||Th 29 Sep|Symmetries and transformations II: The rotation group|
 |HW2 DUE|T 4 Oct|Angular momentum III: spherical harmonics|
 ||W 5 Oct|**HW2 discussion**
-||Th 6 Oct|Addition of angular momenta I: Tensor product, addition of angular momenta|The rest|C-T X (Vol.2) <br> A<sub>X</sub> <br> B<sub>X</sub> <br> D<sub>X</sub> <br> E<sub>X</sub> <br> Bal 7|
-||T 11 Oct|Addition of angular momenta II: Additional of angular momenta (cont.), Clebsch-Gordan series||C-T VII
+||Th 6 Oct|Addition of angular momenta I: Tensor product, addition of angular momenta|The rest|C-T: X (Vol.2) <br> A<sub>X</sub> <br> B<sub>X</sub> <br> D<sub>X</sub> <br> E<sub>X</sub> <br> Bal: 7|
+||T 11 Oct|Addition of angular momenta II: Additional of angular momenta (cont.), Clebsch-Gordan series|
 ||W 12 Oct|Addition of angular momenta III: The Wigner-Eckart theorem and its applications: superselection rules
 ||Th 13 Oct|Addition of angular momenta IV: Superselection rules (cont.)|
 |HW3 DUE?|T 18 Oct|
