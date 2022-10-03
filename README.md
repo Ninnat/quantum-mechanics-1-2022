@@ -38,7 +38,7 @@
 ||T 20 Sep|Two-level systems III: Poincaré/Bloch sphere geometry (cont.)|||[Notes on Einstein summation convention](https://github.com/Ninnat/quantum-mechanics/blob/main/lecture-notes/Einstein-convention-notes.pdf) <br> from Classical Electrodynamics
 |HW1 DUE|W 21 Sep|Angular momentum I: General properties|[Angular Momentum I-II](https://github.com/Ninnat/quantum-mechanics/blob/main/lecture-notes/Angular1.pdf)|C-T: VI <br> A<sub>VI</sub> <br> B<sub>VI</sub> <br> X (Vol.2) <br> Bal: 7| 
 |[HW2v2](https://github.com/Ninnat/quantum-mechanics/blob/main/assignments/hw2v2.pdf) OUT <br> **DUE T 4 Oct**|Th 22 Sep|Angular momentum II: General properties (cont.), the spectrum|
-||T 27 Sep|Symmetries and transformations I: group representations and Lie algebras, the translation group|||Walter Appel, *Mathematics for Physics and Physicists*|
+||T 27 Sep|Symmetries and transformations I: group representations and Lie algebras, the translation group|[Symmetries and angular momentum III](https://github.com/Ninnat/quantum-mechanics/blob/main/lecture-notes/Angular2.pdf)||Walter Appel, *Mathematics for Physics and Physicists*|
 ||W 28 Sep|**HW1 discussion**
 ||Th 29 Sep|Symmetries and transformations II: The rotation group|
 |HW2 DUE|T 4 Oct|Angular momentum III: spherical harmonics|
