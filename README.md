@@ -44,9 +44,9 @@
 |HW2 DUE|T 4 Oct|Angular momentum III: spherical harmonics|
 ||W 5 Oct|**HW2 discussion**
 ||Th 6 Oct|Angular momentum IV: Tensor product, addition of angular momentum|
-||T 11 Oct|Angular momentum V?||C-T VII
-||W 12 Oct|Angular momentum VI?
-|HW3 DUE?|Th 13 Oct|Angular momentum VII?|
+||T 11 Oct|Angular momentum V?: Additional of angular momentum (cont.), Clebsch-Gordan series||C-T VII
+||W 12 Oct|Angular momentum VI?: The Wigner-Eckart theorem and its applications: superselection rules
+|HW3 DUE?|Th 13 Oct|Angular momentum VII?: Superselection rules (cont.)|
 ||T 18 Oct|
 ||W 19 Oct|
 ||Th 20 Oct|
