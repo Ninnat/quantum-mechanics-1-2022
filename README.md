@@ -43,7 +43,7 @@
 ||Th 29 Sep|Symmetries and transformations II: The rotation group|
 |HW2 DUE|T 4 Oct|Angular momentum III: spherical harmonics|
 ||W 5 Oct|**HW2 discussion**
-||Th 6 Oct|Angular momentum IV|
+||Th 6 Oct|Angular momentum IV: Tensor product, addition of angular momentum|
 ||T 11 Oct|Angular momentum V?||C-T VII
 ||W 12 Oct|Angular momentum VI?
 |HW3 DUE?|Th 13 Oct|Angular momentum VII?|
