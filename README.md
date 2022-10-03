@@ -46,11 +46,11 @@
 ||Th 6 Oct|Angular momentum IV: Tensor product, addition of angular momentum|
 ||T 11 Oct|Angular momentum V?: Additional of angular momentum (cont.), Clebsch-Gordan series||C-T VII
 ||W 12 Oct|Angular momentum VI?: The Wigner-Eckart theorem and its applications: superselection rules
-|HW3 DUE?|Th 13 Oct|Angular momentum VII?: Superselection rules (cont.)|
-||T 18 Oct|
+||Th 13 Oct|Angular momentum VII?: Superselection rules (cont.)|
+|HW3 DUE?|T 18 Oct|
 ||W 19 Oct|
 ||Th 20 Oct|
-|Exam week|T 25 Oct|
+|Exam?|T 25 Oct|
 ||W 26 Oct|
 ||Th 27 Oct|
 
