@@ -41,7 +41,7 @@
 ||T 27 Sep|Symmetries and transformations I: group representations and Lie algebras, the translation group|[Symmetries and angular momentum III](https://github.com/Ninnat/quantum-mechanics/blob/main/lecture-notes/Angular2.pdf)||Walter Appel, *Mathematics for Physics and Physicists*|
 ||W 28 Sep|**HW1 discussion**
 ||Th 29 Sep|Symmetries and transformations II: The rotation group|
-|HW2 DUE|T 4 Oct|Angular momentum III: spherical harmonics|
+|HW2 DUE <br> **[HW3](https://github.com/Ninnat/quantum-mechanics/blob/main/assignments/hw3.pdf) OUT** |T 4 Oct|Angular momentum III: spherical harmonics|
 ||W 5 Oct|**HW2 discussion**
 ||Th 6 Oct|Addition of angular momenta I: Tensor product, addition of angular momenta|The rest|C-T: X (Vol.2) <br> A<sub>X</sub> <br> B<sub>X</sub> <br> D<sub>X</sub> <br> E<sub>X</sub> <br> Bal: 7|
 ||T 11 Oct|Addition of angular momenta II: Additional of angular momenta (cont.), Clebsch-Gordan series|
