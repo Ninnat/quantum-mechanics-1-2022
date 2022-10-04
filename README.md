@@ -4,7 +4,7 @@
 
 * *4 Oct*: The due date for HW2 is moved to Friday, October 7th
 * *4 Oct*: The [last homework set](https://github.com/Ninnat/quantum-mechanics/blob/main/assignments/hw3.pdf) is out. It should be due some time in the week of October 17th to 21st. **Beware that it contains 6 problems**, so manage your time well.
-* *24 Sep*: The full [homework set 2](https://github.com/Ninnat/quantum-mechanics/blob/main/assignments/hw2v2.pdf) (now v2) is out.
+* *24 Sep*: The full [homework set 2](https://github.com/Ninnat/quantum-mechanics/blob/main/assignments/hw2v3.pdf) (now v3) is out.
 * *19 Sep*: The due date for HW1 is moved to Wednesday, September 21st
 * *6 Sep*: The make-up class on Thursday, September 8th will be from 13:30 to 15:00.
 * *6 Sep*: [Homework 1](https://github.com/Ninnat/quantum-mechanics/blob/main/assignments/hw1v3.pdf) (v3) is out. Due to the fact that you will be having the midterm exam on September 14th, the tentative due date of the homework is **Monday, September 19th** (midnight, before Tuesday).
@@ -39,7 +39,7 @@
 ||Th 15 Sep|Two-level systems II: Poincaré/Bloch sphere geometry, Pauli matrix algebra|
 ||T 20 Sep|Two-level systems III: Poincaré/Bloch sphere geometry (cont.)|||[Notes on Einstein summation convention](https://github.com/Ninnat/quantum-mechanics/blob/main/lecture-notes/Einstein-convention-notes.pdf) <br> from Classical Electrodynamics
 ||W 21 Sep|Angular momentum I: General properties|[Angular Momentum I-II](https://github.com/Ninnat/quantum-mechanics/blob/main/lecture-notes/Angular1.pdf)|C-T: VI <br> A<sub>VI</sub> <br> B<sub>VI</sub> <br> Bal: 7| 
-|[HW2v2](https://github.com/Ninnat/quantum-mechanics/blob/main/assignments/hw2v2.pdf) OUT <br> **DUE F 7 Oct**|Th 22 Sep|Angular momentum II: General properties (cont.), the spectrum|
+|[HW2v3](https://github.com/Ninnat/quantum-mechanics/blob/main/assignments/hw2v3.pdf) OUT <br> **DUE F 7 Oct**|Th 22 Sep|Angular momentum II: General properties (cont.), the spectrum|
 ||T 27 Sep|Symmetries and transformations I: group representations and Lie algebras, the translation group|[Symmetries and angular momentum III](https://github.com/Ninnat/quantum-mechanics/blob/main/lecture-notes/Angular2.pdf)||Walter Appel, *Mathematics for Physics and Physicists*|
 ||W 28 Sep|**HW1 discussion**
 ||Th 29 Sep|Symmetries and transformations II: The rotation group|
