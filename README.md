@@ -2,6 +2,7 @@
 
 ## Announcements
 
+* *10 Oct*: This week, we will meet on Tuesday 10:30-12:00, Wednesday 13:30-15:00, and finally Thursday (online) 10:30-12:00 to finish off this course.
 * *4 Oct*: The due date for HW2 is moved to Friday, October 7th
 * *4 Oct*: The [last homework set](https://github.com/Ninnat/quantum-mechanics/blob/main/assignments/hw3.pdf) is out. It should be due some time in the week of October 17th to 21st. **Beware that it contains 6 problems**, so manage your time well.
 * *24 Sep*: The full [homework set 2](https://github.com/Ninnat/quantum-mechanics/blob/main/assignments/hw2v3.pdf) (now v3) is out.
