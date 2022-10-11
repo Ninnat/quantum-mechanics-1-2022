@@ -49,7 +49,7 @@
 ||Th 6 Oct|Addition of angular momenta I: Tensor product|The rest|C-T: X (Vol.2) <br> D<sub>X</sub> <br> E<sub>X</sub> <br> Bal: 7.5-7.8|Ballentine's [notational errors](https://web.archive.org/web/20220126181440/https://csclub.uwaterloo.ca/~pbarfuss/bzt.pdf), G.A. Raggio
 ||T 11 Oct 10:30-12:00 **(Special time!)**|Addition of angular momenta II: Clebsch-Gordan series|
 ||W 12 Oct|Addition of angular momenta III: Vector and tensor operators
-||Th 13 Oct 10:30-12:00 **(Special time!)**|Addition of angular momenta IV: The Wigner-Eckart theorem and its applications: superselection rules|
+||Th 13 Oct 10:30-12:00 **(Special time!)**|Addition of angular momenta IV: Wigner-Eckart theorem and its applications: superselection rules|
 ||T 18 Oct|
 ||W 19 Oct|
 ||Th 20 Oct|
