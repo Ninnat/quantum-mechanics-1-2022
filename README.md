@@ -46,7 +46,7 @@
 ||Th 29 Sep|Symmetries and transformations II: The rotation group|
 |[HW3](https://github.com/Ninnat/quantum-mechanics/blob/main/assignments/hw3.pdf) OUT <br> **Due some time in the week of Oct 17-23** |T 4 Oct|Angular momentum III: spherical harmonics|
 ||W 5 Oct|**No tutorial class**
-||Th 6 Oct|Addition of angular momenta I: Tensor product|The rest|C-T: X (Vol.2) <br> D<sub>X</sub> <br> E<sub>X</sub> <br> Bal: 7.5-7.8|Ballentine's and Zettili's [notational errors regarding spherical tensors](https://web.archive.org/web/20220126181440/https://csclub.uwaterloo.ca/~pbarfuss/bzt.pdf), G.A. Raggio
+||Th 6 Oct|Addition of angular momenta I: Tensor product|The rest|C-T: X (Vol.2) <br> D<sub>X</sub> <br> E<sub>X</sub> <br> Bal: 7.5-7.8|Ballentine's and Zettili's [notational error regarding spherical tensors](https://web.archive.org/web/20220126181440/https://csclub.uwaterloo.ca/~pbarfuss/bzt.pdf), G.A. Raggio
 ||T 11 Oct 10:30-12:00 **(Special time!)**|Addition of angular momenta II: Clebsch-Gordan series|
 ||W 12 Oct|Addition of angular momenta III: Spherical vector and tensor operators
 ||Th 13 Oct 10:30-12:00 **(Special time!)**|Addition of angular momenta IV: Wigner-Eckart theorem and its applications: superselection rules|
