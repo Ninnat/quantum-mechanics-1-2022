@@ -38,7 +38,7 @@
 ||T 13 Sep|Coherent states (cont.) and summary. Two-level systems I: polarization and Poincaré sphere|[Two-level systems I-III](https://github.com/Ninnat/quantum-mechanics/blob/main/lecture-notes/Two-level.pdf)|C-T: IV <br> A<sub>IV</sub> <br> B<sub>IV</sub> <br> (E<sub>IV</sub>) <br> (F<sub>IV</sub>)|[Animation](https://www.youtube.com/watch?v=Q0qrU4nprB0) of linear, circular, and elliptical polarization|
 ||W 14 Sep|**No tutorial class** (Midterm exam)|
 ||Th 15 Sep|Two-level systems II: Poincaré/Bloch sphere geometry, Pauli matrix algebra|
-||T 20 Sep|Two-level systems III: Poincaré/Bloch sphere geometry (cont.)|||[Notes on Einstein summation convention](https://github.com/Ninnat/quantum-mechanics/blob/main/lecture-notes/Einstein-convention-notes.pdf) <br> from Classical Electrodynamics
+||T 20 Sep|Two-level systems III: Poincaré/Bloch sphere geometry (cont.)|||[Notes on Einstein summation convention](https://github.com/Ninnat/quantum-mechanics/blob/main/lecture-notes/Einstein-convention-notes.pdf) <br> from my Classical Electrodynamics course
 ||W 21 Sep|Angular momentum I: General properties|[Angular Momentum I-II](https://github.com/Ninnat/quantum-mechanics/blob/main/lecture-notes/Angular1.pdf)|C-T: VI <br> A<sub>VI</sub> <br> B<sub>VI</sub> <br> Bal: 7.1-7.6| 
 |[HW2v3](https://github.com/Ninnat/quantum-mechanics/blob/main/assignments/hw2v3.pdf) OUT <br> **DUE F 7 Oct**|Th 22 Sep|Angular momentum II: General properties (cont.), the spectrum|
 ||T 27 Sep|Symmetries and transformations I: group representations and Lie algebras, the translation group|[Symmetries and angular momentum III](https://github.com/Ninnat/quantum-mechanics/blob/main/lecture-notes/Angular2.pdf)||Walter Appel, *Mathematics for Physics and Physicists*|
