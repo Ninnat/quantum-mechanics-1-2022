@@ -44,23 +44,18 @@
 ||T 27 Sep|Symmetries and transformations I: group representations and Lie algebras, the translation group|[Symmetries and angular momentum III](https://github.com/Ninnat/quantum-mechanics/blob/main/lecture-notes/Angular2.pdf)||Walter Appel, *Mathematics for Physics and Physicists*|
 ||W 28 Sep|**HW1 discussion**
 ||Th 29 Sep|Symmetries and transformations II: The rotation group|
-|[HW3](https://github.com/Ninnat/quantum-mechanics/blob/main/assignments/hw3.pdf) OUT <br> **DUE Su Oct 23** |T 4 Oct|Angular momentum III: spherical harmonics|
+|[HW3](https://github.com/Ninnat/quantum-mechanics/blob/main/assignments/hw3.pdf) OUT <br> **DUE Su 23 Oct** |T 4 Oct|Angular momentum III: spherical harmonics|
 ||W 5 Oct|**No tutorial class**
 ||Th 6 Oct|Addition of angular momenta I: Tensor product|The rest|C-T: X (Vol.2) <br> D<sub>X</sub> <br> E<sub>X</sub> <br> Bal: 7.5-7.8|Ballentine's and Zettili's [notational error regarding spherical tensors](https://web.archive.org/web/20220126181440/https://csclub.uwaterloo.ca/~pbarfuss/bzt.pdf), G.A. Raggio
 ||T 11 Oct 10:30-12:00 **(Special time!)**|Addition of angular momenta II: Clebsch-Gordan series|
 ||W 12 Oct|Addition of angular momenta III: Spherical vector and tensor operators
 ||Th 13 Oct 10:30-12:00 **(Special time!)**|Addition of angular momenta IV: Wigner-Eckart theorem and its applications: superselection rules|
-||T 18 Oct|
-||W 19 Oct|
-||Th 20 Oct|
-|Exam?|T 25 Oct|
-||W 26 Oct|
-||Th 27 Oct|
+|Final exam|Week of 24-30 Oct|
 
 ## Grading scheme
 
 For the whole course
-* 40% Assignments (~3 or 4 assignments for my parts)
+* 40% Assignments (3 assignments for my parts)
 * 30% Midterm exam
 * 30% Final exam
 
