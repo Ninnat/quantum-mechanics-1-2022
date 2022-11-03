@@ -49,7 +49,7 @@
 ||Th 6 Oct|Addition of angular momenta I: Tensor product|[Addition of angular momenta I-II](https://github.com/Ninnat/quantum-mechanics/blob/main/lecture-notes/Addition.pdf)|C-T: X (Vol.2) <br> D<sub>X</sub> <br> E<sub>X</sub> <br> Bal: 7.5-7.8|Ballentine's and Zettili's [notational error regarding spherical tensors](https://web.archive.org/web/20220126181440/https://csclub.uwaterloo.ca/~pbarfuss/bzt.pdf), G.A. Raggio
 ||T 11 Oct 10:30-12:00 **(Special time!)**|Addition of angular momenta II: Clebsch-Gordan series|
 ||W 12 Oct|Addition of angular momenta III: Spherical vector and tensor operators
-||Th 13 Oct 10:30-12:00 **(Special time!)**|Addition of angular momenta IV: Wigner-Eckart theorem and its applications: superselection rules|[Lecture notes](https://github.com/Ninnat/quantum-mechanics/blob/main/lecture-notes/Wigner-Eckart.pdf)
+||Th 13 Oct 10:30-12:00 **(Special time!)**|Addition of angular momenta IV: Wigner-Eckart theorem and its applications: superselection rules|[Note from the online lecture](https://github.com/Ninnat/quantum-mechanics/blob/main/lecture-notes/Wigner-Eckart.pdf)
 |**Take-home exam**|7-9 Nov|
 
 ## Grading scheme
