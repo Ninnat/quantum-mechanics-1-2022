@@ -50,7 +50,7 @@
 ||T 11 Oct 10:30-12:00 **(Special time!)**|Addition of angular momenta II: Clebsch-Gordan series|
 ||W 12 Oct|Addition of angular momenta III: Spherical vector and tensor operators
 ||Th 13 Oct 10:30-12:00 **(Special time!)**|Addition of angular momenta IV: Wigner-Eckart theorem and its applications: superselection rules|
-|Final exam|Week of 24-30 Oct|
+|**Take-home exam**|7-9 Nov|
 
 ## Grading scheme
 
